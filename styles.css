@@ -1,0 +1,6 @@
+/* styles.css */
+
+img {
+    width: 300px; /* Adjust the width as needed */
+    height: auto; /* This ensures the aspect ratio is maintained */
+}
